@@ -2,7 +2,7 @@
 
 **Table of contents**
 
-- [Significant Earthquakes, 1965-2016]()
+- [Significant Earthquakes, 1965-2016](https://github.com/abbasovsh/data-sets/blob/main/Significant-Earthquakes_1965-2016.csv)
 
 ## Significant Earthquakes, 1965-2016
 ### About Dataset
